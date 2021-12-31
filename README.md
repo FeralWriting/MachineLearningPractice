@@ -18,8 +18,8 @@ The Support Vector Machine algorithim was then used to make predictions about th
 
 96.6667%
 
-[11 0  0 ]
-[0  12 1 ]
+[11 0  0 ]<br>
+[0  12 1 ]<br>
 [0  0  6 ]
 
 |   | precision | recall | f1-score | support |
