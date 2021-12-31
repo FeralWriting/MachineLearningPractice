@@ -16,10 +16,9 @@ Six algorithims are put in competition to discover the most accurate for this da
 
 The Support Vector Machine algorithim was then used to make predictions about the dataset and evaluated for accuracy. The evaluation was done using a percentage of accuracy, a confusion matrix, and a classification report:
 
-0.9666666666666667
-
-[[11  0  0]
- [ 0 12  1]
+0.9666666666666667<br>
+[[11  0  0]<br>
+ [ 0 12  1]<br>
  [ 0  0  6]]
 
 |   | precision | recall | f1-score | support |
@@ -28,6 +27,7 @@ The Support Vector Machine algorithim was then used to make predictions about th
 | Iris-versicolor | 1.00 | 0.92 | 0.96 | 13 |
 | Iris-virginica | 0.86 | 1.00 | 0.92 | 6 |
 
+|   |   |   |   |   |
 | ---: | --- | --- | --- | --- |
 | accuracy |   |   | 0.97 | 30 |
 | macro avg | 0.95 | 0.97 | 0.96 | 30 |
