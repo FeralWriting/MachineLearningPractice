@@ -16,10 +16,12 @@ Six algorithims are put in competition to discover the most accurate for this da
 
 The Support Vector Machine algorithim was then used to make predictions about the dataset and evaluated for accuracy. The evaluation was done using a percentage of accuracy, a confusion matrix, and a classification report:
 
-0.9666666666666667<br>
-[[11  0  0]<br>
- [ 0 12  1]<br>
- [ 0  0  6]]
+96.6667%
+
+$$\begin{bmatrix}11 & 0 & 0\\
+0 & 12 & 1\\
+0 & 0 & 6
+\end{bmatrix}$$
 
 |   | precision | recall | f1-score | support |
 | ---: | --- | --- | --- | --- |
