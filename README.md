@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pratice importing, using, and analyzing data, as well as testing and implementing algorithms. The program follows an [instruction guide](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) and gave me experience with Windows Powershell, machine learning algorithms, Pyplot, datasets, importing libraries, and Numpy.
+Practice importing, using, and analyzing data, as well as testing and implementing algorithms. The program follows an [instruction guide](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) and gave me experience with Windows Powershell, machine learning algorithms, Pyplot, datasets, importing libraries, and Numpy.
 
 ## Features:
 
